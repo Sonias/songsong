@@ -2,7 +2,7 @@
 using namespace std;
 
 main()
-{ 
+{
 int i,j,n=4;
 for(i=1;i<=4;i++)
 {
@@ -20,4 +20,5 @@ for(i=1;i<=n-1;i++)
       cout << "*";
    	  cout << endl;
 }
+//xiaosong
 }
